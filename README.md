@@ -9,6 +9,6 @@
 | css   | sytle.   |   10     |
 | js    | process. |    0     |
 | java. | backend. |    0     |
-| ----- | -------- | -------- |
+| etc.  | applicate|    0     |
 
 
